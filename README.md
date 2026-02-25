@@ -7,8 +7,7 @@ Objetivo
 Estudante analise e desenvolvimento de sistemas, com foco Dados, competências 
 **Python, SQL e Power BI**, buscando oportunidade de estágio para aplicar 
 conhecimentos em análise de Dados, visualização de dados e apoio à tomada de 
-decisão, com forte interesse em aprendizado contínuo.   
-Conhecimentos  
+decisão, com forte interesse em aprendizado contínuo.  
  
 ---
 
@@ -26,6 +25,7 @@ Conhecimentos
 • Linux básico para ambiente de dados
 • Boas práticas de LGPD aplicadas a dados
 
+---
 
 ## 🛠️ Tech Skill
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,8 +33,6 @@ Conhecimentos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)   
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
 
 ---
 
