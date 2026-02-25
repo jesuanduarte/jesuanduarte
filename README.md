@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá 👋, aqui é o Jesuan Duarte
 
-<!--
-**jesuanduarte/jesuanduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **estutante de análise de desenvolvimento de dados**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+Objetivo   
+Estudante analise e desenvolvimento de sistemas, com foco Dados, competências 
+**Python, SQL e Power BI**, buscando oportunidade de estágio para aplicar 
+conhecimentos em análise de Dados, visualização de dados e apoio à tomada de 
+decisão, com forte interesse em aprendizado contínuo.   
+Conhecimentos  
+ 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 O que eu faço
+
+-   Dashboards & analytics
+-   Criação de dashboards interativos
+-   Tratamento de dados
+-   Otimização de desempenho
+-   Arquitetura limpa e design de sistemas
+-   APIs seguras e autenticação
+-   
+---
+
+
+## 🛠️ Tech S
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)   
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+---
+
+## 🚀 Filosofia
+
+> _"Trabalho com dados porque eles permitem entender o mundo de forma objetiva, reduzindo incertezas e orientando decisões com base em evidências. Cada Dado é uma chance de investigar, aprender e melhorar processos.."_
+
+---
