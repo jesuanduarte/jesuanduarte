@@ -12,16 +12,19 @@ Conhecimentos
  
 ---
 
-## 🧠 O que eu faço
+## 🧠 O que eu tenho conhecimento 
 
--   Dashboards & analytics
--   Criação de dashboards interativos
--   Tratamento de dados
--   Otimização de desempenho
--   Arquitetura limpa e design de sistemas
--   APIs seguras e autenticação
--   
----
+• Python (análise e tratamento de dados)
+• NumPy (operações numéricas, arrays multidimensionais e cálculo vetorizado)
+• SciPy (métodos científicos, estatística e otimização)
+• Matplotlib (visualização de dados e criação de gráficos analíticos)
+• SQLserver
+• Excel Intermediário(tabelas dinâmicas, PROCX)
+• Power BI (criação de dashboards e visualizações)
+• Estatística básica aplicada à análise de dados
+• Git e GitHub (versionamento de código)
+• Linux básico para ambiente de dados
+• Boas práticas de LGPD aplicadas a dados
 
 
 ## 🛠️ Tech Skill
@@ -37,6 +40,6 @@ Conhecimentos
 
 ## 🚀 Filosofia
 
-> _"Trabalho com dados porque eles permitem entender o mundo de forma objetiva, reduzindo incertezas e orientando decisões com base em evidências. Cada Dado é uma chance de investigar, aprender e melhorar processos.."_
+> _"Trabalho com dados porque eles permitem entender o mundo de forma objetiva. Cada Dado é uma chance de investigar, aprender e melhorar processos.."_
 
 ---
