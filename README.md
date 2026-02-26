@@ -1,7 +1,7 @@
 # Olá 👋, aqui é o Jesuan Duarte
 
 🚀 **estutante de análise de desenvolvimento de dados**  
-🇧🇷 Brazil
+Brazil
 
 Objetivo   
 Estudante analise e desenvolvimento de sistemas, com foco Dados, competências 
