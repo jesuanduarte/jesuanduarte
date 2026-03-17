@@ -1,6 +1,6 @@
 # Olá 👋, aqui é o Jesuan Duarte
 
-🚀 **estudante de análise de desenvolvimento de dados**  
+🚀 **estudante de análise de desenvolvimento de sistemas**  
 Brazil
 
 Objetivo   
