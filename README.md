@@ -24,8 +24,8 @@ conhecimentos em aréas de desenvolvimento, apoio à tomada de decisão, com for
 • Power BI (criação de dashboards e visualizações)
 • Estatística básica aplicada à análise de dados
 • Git e GitHub (versionamento de código)
-• Linux básico para ambiente de dados
-• Boas práticas de LGPD aplicadas a dados
+• Linux básico para ambiente de desenvolvimento
+• Boas práticas de LGPD 
 
 ---
 
