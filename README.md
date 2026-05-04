@@ -5,7 +5,7 @@ Brazil
 
 Objetivo   
 Estudante analise e desenvolvimento de sistemas,competências 
-**Python, SQL e Power BI** ,** C# **.NET, buscando oportunidade de estágio para aplicar 
+**Python, SQL e Power BI** ,**C# .NET**, buscando oportunidade de estágio para aplicar 
 conhecimentos em aréas de desenvolvimento, apoio à tomada de decisão, com forte interesse em aprendizado contínuo.  
  
 ---
