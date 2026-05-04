@@ -4,15 +4,17 @@
 Brazil
 
 Objetivo   
-Estudante analise e desenvolvimento de sistemas, com foco Dados, competências 
-**Python, SQL e Power BI**, buscando oportunidade de estágio para aplicar 
-conhecimentos em análise de Dados, visualização de dados e apoio à tomada de 
-decisão, com forte interesse em aprendizado contínuo.  
+Estudante analise e desenvolvimento de sistemas,competências 
+**Python, SQL e Power BI** ,** C# **.NET, buscando oportunidade de estágio para aplicar 
+conhecimentos em aréas de desenvolvimento, apoio à tomada de decisão, com forte interesse em aprendizado contínuo.  
  
 ---
 
 ## 🧠 O que eu tenho conhecimento 
 
+• C# / .NET (desenvolvimento de APIs REST com ASP.NET Core)
+• Entity Framework Core (ORM)
+• Arquitetura em camadas 
 • Python (análise e tratamento de dados)
 • NumPy (operações numéricas, arrays multidimensionais e cálculo vetorizado)
 • SciPy (métodos científicos, estatística e otimização)
