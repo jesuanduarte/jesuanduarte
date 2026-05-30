@@ -3,29 +3,30 @@
 🚀 **estudante de análise de desenvolvimento de sistemas**  
 Brazil
 
-Objetivo   
-Estudante analise e desenvolvimento de sistemas,competências 
-**Python, SQL e Power BI** ,**C# .NET**, buscando oportunidade de estágio para aplicar 
-conhecimentos em aréas de desenvolvimento, apoio à tomada de decisão, com forte interesse em aprendizado contínuo.  
- 
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com conhecimentos em **C#/.NET, Python, SQL Server, Power BI e análise de dados**.
+
+Busco uma oportunidade de **estágio na área de tecnologia**, onde eu possa aplicar meus conhecimentos em desenvolvimento de sistemas, APIs REST, análise de dados e apoio à tomada de decisão.
+
+Tenho forte interesse em aprendizado contínuo, resolução de problemas e evolução profissional na área de desenvolvimento de software e dados.
+
 ---
 
-## 🧠 O que eu tenho conhecimento 
+## 🧠 Conhecimentos Técnicos
 
-• C# / .NET (desenvolvimento de APIs REST com ASP.NET Core)
-• Entity Framework Core (ORM)
-• Arquitetura em camadas 
-• Python (análise e tratamento de dados)
-• NumPy (operações numéricas, arrays multidimensionais e cálculo vetorizado)
-• SciPy (métodos científicos, estatística e otimização)
-• Matplotlib (visualização de dados e criação de gráficos analíticos)
-• SQLserver
-• Excel Intermediário(tabelas dinâmicas, PROCX)
-• Power BI (criação de dashboards e visualizações)
-• Estatística básica aplicada à análise de dados
-• Git e GitHub (versionamento de código)
-• Linux básico para ambiente de desenvolvimento
-• Boas práticas de LGPD 
+- C# / .NET — desenvolvimento de APIs REST com ASP.NET Core
+- Entity Framework Core
+- Arquitetura em camadas
+- Python — análise e tratamento de dados
+- NumPy, SciPy e Matplotlib
+- SQL Server
+- Power BI — dashboards e visualizações
+- Excel Intermediário — tabelas dinâmicas e PROCX
+- Estatística básica aplicada à análise de dados
+- Git e GitHub
+- Linux básico
+- Boas práticas de LGPD
 
 ---
 
