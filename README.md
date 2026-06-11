@@ -1,7 +1,7 @@
 # Olá 👋, aqui é o Jesuan Duarte
+📍 Brasil
 
-🚀 **estudante de análise de desenvolvimento de sistemas**  
-Brazil
+🚀 **Estudante de Análise e Desenvolvimento de Sistemas**
 
 ## 👨‍💻 Sobre mim
 
