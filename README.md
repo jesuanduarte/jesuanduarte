@@ -39,7 +39,11 @@ Tenho forte interesse em aprendizado contínuo, resolução de problemas e evolu
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ---
+<div align="center">
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesuanduarte&show_icons=true&theme=tokyonight"/>
+
+</div>
 ## 🚀 Filosofia
 
 > _"Trabalho com dados porque eles permitem entender o mundo de forma objetiva. Cada Dado é uma chance de investigar, aprender e melhorar processos.."_
