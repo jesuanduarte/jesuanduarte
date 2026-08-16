@@ -5,9 +5,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com conhecimentos em **C#/.NET, Python, SQL Server, Power BI e análise de dados**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com conhecimentos em ** ASP.NET C#, Framework Core e SQL Server, 
 
-Busco uma oportunidade de **estágio na área de tecnologia**, onde eu possa aplicar meus conhecimentos em desenvolvimento de sistemas, APIs REST, análise de dados e apoio à tomada de decisão.
+Busco uma oportunidade de **estágio na área de tecnologia**, onde eu possa aplicar meus conhecimentos em desenvolvimento de sistema.
 
 Tenho forte interesse em aprendizado contínuo, resolução de problemas e evolução profissional na área de desenvolvimento de software e dados.
 
@@ -15,15 +15,21 @@ Tenho forte interesse em aprendizado contínuo, resolução de problemas e evolu
 
 ## 🧠 Conhecimentos Técnicos
 
-- C# / .NET — desenvolvimento de APIs REST com ASP.NET Core
+- C# / .NET / ASP.NET
+- desenvolvimento de APIs REST com ASP.NET Core
 - Entity Framework Core
-- Arquitetura em camadas
-- Python — análise e tratamento de dados
+- Postman
+- Swagger 
+- Arquitetura em camadas e MVC
+- JWT / Autenticação e Autorização
+- Dependency Injection
+- LINQ
+- SQL Server 
+- Python 
 - NumPy, SciPy e Matplotlib
-- SQL Server
 - Power BI — dashboards e visualizações
-- Excel Intermediário — tabelas dinâmicas e PROCX
-- Estatística básica aplicada à análise de dados
+- Excel— tabelas dinâmicas e PROCX
+- Estatística aplicada à análise de dados
 - Git e GitHub
 - Linux básico
 - Boas práticas de LGPD
