@@ -50,11 +50,6 @@ Tenho forte interesse em aprendizado contínuo, resolução de problemas e evolu
 
 ---
 
-📊 GitHub Status
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesuanduarte&show_icons=true&theme=tokyonight"/>
-
 </div>
 ## 🚀 Filosofia
 
